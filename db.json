@@ -2,7 +2,10 @@
   "products": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "p1",
+      "description": "p1 description",
+      "price": 10,
+      "isAvailable": true
     }
   ],
   "profile": {
